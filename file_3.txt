@@ -1,2 +1,2 @@
 This file was inititated in GitHub First
-This is the lne which added first in GitHub
+This is the line which added first in GitHub
